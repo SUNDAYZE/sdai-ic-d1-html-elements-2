@@ -1,4 +1,4 @@
-!["final rendering for try it yourself"](assets/images/html_elements_lab_2_render.jpg)
+!["final rendering for try it together"](assets/images/html_elements_lab_2_render.jpg)
 # HTML Elements and Tags Lab 2 - Try it Together
 
 ## Description 📄
