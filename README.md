@@ -1,5 +1,5 @@
 !["final rendering for try it together"](assets/images/html_elements_lab_2_render.jpg)
-# HTML Elements and Tags Lab 1
+# HTML Elements and Tags Lab 2
 
 ## Description 📄
 This lab introduces you to the fundamental building blocks of HTML webpages. You'll experiment with creating a simple webpage structure and observe how basic code translates into visual elements on a web page.
