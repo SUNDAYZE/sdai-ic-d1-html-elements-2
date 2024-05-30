@@ -15,8 +15,8 @@ This lab introduces you to the fundamental building blocks of HTML webpages. You
 
 ---
 
-## Codespaces Guidance
-Should you need guidance on how to fork, open, edit, and maintain your codespaces, please use the link below. 
+## Codespaces Guidance 📄
+Should you need guidance on how to fork, open, edit, and maintain your codespaces, please use the link below by right clicking and opening in a new tab.  
 
 [GitHub Codespaces Guidance](https://gist.github.com/JohnWP8253/4fff80f43d07a04ee3f1514c0a1d354a)
 
